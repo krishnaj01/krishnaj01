@@ -13,22 +13,24 @@
 ![intro_gif](https://capsule-render.vercel.app/api?type=venom&color=0:43cea2,100:185a9d&height=140&section=header&text=Hi%20👋,%20I%20am%20Krishna%20Jhanwar&desc=Driven%20by%20Curiosity%20👀%20and%20Innovation%20🚀&descSize=15&descAlignY=75&fontSize=30&fontColor=ffffff&animation=fadeIn)
 
 <p align="center">
-    <a href="https://www.linkedin.com/in/krishna-jhanwar/">
+    <a href="https://www.linkedin.com/in/krishna-jhanwar/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
     </a>
-    <a href="mailto:krishnaj@iitbhilai.ac.in">
+    <a href="mailto:krishnaj@iitbhilai.ac.in" target="_blank">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="mail" />
     </a>
-    <a href="https://krishnaj01.github.io/">
+    <a href="https://krishnaj01.github.io/" target="_blank">
         <img src="https://img.shields.io/badge/My Blogs-12100E?style=for-the-badge&logoColor=white" alt="my blogs" />
     </a>
-    <a href="https://linktr.ee/krishnajhanwar">
+    <a href="https://linktr.ee/krishnajhanwar" target="_blank">
         <img src="https://img.shields.io/badge/LinkTree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white" alt="linktree" />
     </a>
 </p>
 
 <p>
-    <img src="https://komarev.com/ghpvc/?username=krishnaj01&color=blue&abbreviated=true" alt="profile_views"/>
+    <a href="#">
+        <img src="https://komarev.com/ghpvc/?username=krishnaj01&color=blue&abbreviated=true" alt="profile_views"/>
+    </a>
 </p>
 
 - ⚡ **Fun Fact:** I run the code 5 times, even when it works perfectly! 😆
@@ -92,13 +94,19 @@
 
 <h2>📈 My GitHub Stats</h2>
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=krishnaj01&show_icons=true&theme=nord&include_all_commits=true" alt="GitHub Stats" />
-    <img src="https://streak-stats.demolab.com?user=krishnaj01&theme=nord" alt="GitHub Streak" />
+    <a href="#">
+        <img src="https://github-readme-stats.vercel.app/api?username=krishnaj01&show_icons=true&theme=nord&include_all_commits=true" alt="GitHub Stats" />
+    </a>
+    <a href="#">
+        <img src="https://streak-stats.demolab.com?user=krishnaj01&theme=nord" alt="GitHub Streak" />
+    </a>
 </p>
 
 <h2>🏆 My GitHub Trophies</h2>
 <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=krishnaj01&theme=onedark" alt="GitHub Trophies" />
+    <a href="#">
+        <img src="https://github-profile-trophy.vercel.app/?username=krishnaj01&theme=onedark" alt="GitHub Trophies" />
+    </a>
 </p>
 
 <p align="center">
