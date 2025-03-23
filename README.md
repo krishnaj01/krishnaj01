@@ -1,18 +1,3 @@
-<!--
-**krishnaj01/krishnaj01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <p align="center">
     <a href="#">
         <img width=70% src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="header_gif" />
@@ -25,7 +10,7 @@ Here are some ideas to get you started:
     </a>
 </p> -->
 
-![header](https://capsule-render.vercel.app/api?type=venom&color=0:43cea2,100:185a9d&height=140&section=header&text=Hi%20👋,%20I%20am%20Krishna%20Jhanwar&desc=Driven%20by%20Curiosity%20👀%20and%20Innovation%20🚀&descSize=15&descAlignY=75&fontSize=30&fontColor=ffffff&animation=fadeIn)
+![intro_gif](https://capsule-render.vercel.app/api?type=venom&color=0:43cea2,100:185a9d&height=140&section=header&text=Hi%20👋,%20I%20am%20Krishna%20Jhanwar&desc=Driven%20by%20Curiosity%20👀%20and%20Innovation%20🚀&descSize=15&descAlignY=75&fontSize=30&fontColor=ffffff&animation=fadeIn)
 
 <p align="center">
     <a href="https://www.linkedin.com/in/krishna-jhanwar/">
