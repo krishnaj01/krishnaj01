@@ -1,7 +1,5 @@
 <p align="center">
-    <a href="#">
-        <img width=70% src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="header_gif" />
-    </a>
+    <img width=70% src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="header_gif" />
 </p>
 
 <!-- <p align="center">
@@ -28,9 +26,7 @@
 </p>
 
 <p>
-    <a href="#">
-        <img src="https://komarev.com/ghpvc/?username=krishnaj01&color=blue&abbreviated=true" alt="profile_views"/>
-    </a>
+    <img src="https://komarev.com/ghpvc/?username=krishnaj01&color=blue&abbreviated=true" alt="profile_views"/>
 </p>
 
 - ⚡ **Fun Fact:** I run the code 5 times, even when it works perfectly! 😆
@@ -94,19 +90,13 @@
 
 <h2>📈 My GitHub Stats</h2>
 <p align="center">
-    <a href="#">
-        <img src="https://github-readme-stats.vercel.app/api?username=krishnaj01&show_icons=true&theme=nord&include_all_commits=true" alt="GitHub Stats" />
-    </a>
-    <a href="#">
-        <img src="https://streak-stats.demolab.com?user=krishnaj01&theme=nord" alt="GitHub Streak" />
-    </a>
+    <img src="https://github-readme-stats.vercel.app/api?username=krishnaj01&show_icons=true&theme=nord&include_all_commits=true" alt="GitHub Stats" />
+    <img src="https://streak-stats.demolab.com?user=krishnaj01&theme=nord" alt="GitHub Streak" />
 </p>
 
 <h2>🏆 My GitHub Trophies</h2>
 <p align="center">
-    <a href="#">
-        <img src="https://github-profile-trophy.vercel.app/?username=krishnaj01&theme=onedark" alt="GitHub Trophies" />
-    </a>
+    <img src="https://github-profile-trophy.vercel.app/?username=krishnaj01&theme=onedark" alt="GitHub Trophies" />
 </p>
 
 <p align="center">
