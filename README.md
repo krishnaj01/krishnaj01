@@ -19,11 +19,13 @@ Here are some ideas to get you started:
     </a>
 </p>
 
-<p align="center">
+<!-- <p align="center">
     <a href="#">
         <img src="https://capsule-render.vercel.app/api?type=venom&color=0:43cea2,100:185a9d&height=140&section=header&text=Hi 👋, I am Krishna Jhanwar&desc=Driven by Curiosity 👀 and Innovation 🚀&descSize=15&descAlignY=75&fontSize=30&fontColor=ffffff&animation=fadeIn" alt="intro_gif" />
     </a>
-</p>
+</p> -->
+
+![header](https://capsule-render.vercel.app/api?type=venom&color=0:43cea2,100:185a9d&height=140&section=header&text=Hi%20👋,%20I%20am%20Krishna%20Jhanwar&desc=Driven%20by%20Curiosity%20👀%20and%20Innovation%20🚀&descSize=15&descAlignY=75&fontSize=30&fontColor=ffffff&animation=fadeIn)
 
 <p align="center">
     <a href="https://www.linkedin.com/in/krishna-jhanwar/">
