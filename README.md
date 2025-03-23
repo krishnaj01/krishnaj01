@@ -90,7 +90,7 @@
 
 <h2>📈 My GitHub Stats</h2>
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=krishnaj01&show_icons=true&theme=nord&include_all_commits=true" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=krishnaj01&show_icons=true&theme=nord" alt="GitHub Stats" />
     <img src="https://streak-stats.demolab.com?user=krishnaj01&theme=nord" alt="GitHub Streak" />
 </p>
 
