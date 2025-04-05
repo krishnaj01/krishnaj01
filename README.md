@@ -56,6 +56,8 @@
     <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="nextjs" />
     <img src="https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black" alt="ejs" />
     <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwind" />
+    <img src="https://img.shields.io/badge/Aceternity UI-000?style=for-the-badge&logoColor=white" alt="aceternity-ui" />
+    <img src="https://img.shields.io/badge/Magic UI-D283DA?style=for-the-badge&logoColor=white" alt="magic-ui" />
     <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" />
 </p>
 
@@ -63,7 +65,7 @@
 <p>
     <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" />
     <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" />
-    <img src="https://img.shields.io/badge/Sanity-000?style=for-the-badge&logoColor=white" alt="sanity" />
+    <img src="https://img.shields.io/badge/Sanity-f37368?style=for-the-badge&logo=sanity&logoColor=white" alt="sanity" />
 </p>
 
 
@@ -71,6 +73,7 @@
 <p>
     <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="vercel" />
     <img src="https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white" alt="render" />
+    <img src="https://img.shields.io/badge/Koyeb-000?style=for-the-badge&logo=koyeb&logoColor=white" alt="koyeb" />
 </p>
 
 <h3>Version Control</h3>
