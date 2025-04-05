@@ -20,8 +20,7 @@
     <a href="https://krishnaj01.github.io/" target="_blank">
         <img src="https://img.shields.io/badge/My Blogs-12100E?style=for-the-badge&logoColor=white" alt="my blogs" />
     </a>
-    <a href="https://krishnaclicks.onrender.com/" target="_blank" style="display: inline-flex; align-items: center; justify-content: center; text-decoration: none; background-color: #323330; padding-left: 10px;">
-        <img src="https://github.com/krishnaj01/KrishnaClicks/raw/main/client/public/favicon.svg" alt="logo" width="20" style="padding: 4px 0; margin-right: -1px;" />
+    <a href="https://krishnaclicks.onrender.com/" target="_blank">
         <img src="https://img.shields.io/badge/KrishnaClicks-%23323330?style=for-the-badge&logo=&logoColor=white" alt="photography page" />
     </a>
     <a href="https://linktr.ee/krishnajhanwar" target="_blank">
@@ -60,14 +59,8 @@
     <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="nextjs" />
     <img src="https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black" alt="ejs" />
     <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwind" />
-    <span style="display: inline-flex; align-items: center; justify-content: center; text-decoration: none; background-color: #000; padding-left: 10px;">
-        <img src="./aceternityui.png" alt="logo" width="15" style="padding: 6.5px 0;" />
-        <img src="https://img.shields.io/badge/Aceternity UI-000?style=for-the-badge&logo=&logoColor=white" alt="aceternity-ui" />
-    </span>
-    <span style="display: inline-flex; align-items: center; justify-content: center; text-decoration: none; background-color: #F5F5F5; padding-left: 10px;">
-        <img src="./magicui.svg" alt="logo" width="15" style="padding: 6.5px 0;" />
-        <img src="https://img.shields.io/badge/Magic UI-F5F5F5?style=for-the-badge&logo=&logoColor=white" alt="magic-ui" />
-    </span>
+    <img src="https://img.shields.io/badge/Aceternity UI-000?style=for-the-badge&logo=&logoColor=white" alt="aceternity-ui" />
+    <img src="https://img.shields.io/badge/Magic UI-D484D9?style=for-the-badge&logo=&logoColor=white" alt="magic-ui" />
     <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" />
 </p>
 
