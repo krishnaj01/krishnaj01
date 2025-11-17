@@ -32,7 +32,7 @@
     <img src="https://komarev.com/ghpvc/?username=krishnaj01&color=blue&abbreviated=true" alt="profile_views"/>
 </p>
 
-- ⚡ **Fun Fact:** I run the code 5 times, even when it works perfectly! 😆
+- ⚡ **Fun Fact:** I keep admiring my work for days after it’s fully complete, because obviously it’s a masterpiece. 😂
 
 - 📫 **Reach me at:** krishnaj@iitbhilai.ac.in || krishna.jhanwar2005@gmail.com
 
