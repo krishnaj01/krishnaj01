@@ -2,12 +2,6 @@
     <img width=70% src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="header_gif" />
 </p>
 
-<!-- <p align="center">
-    <a href="#">
-        <img src="https://capsule-render.vercel.app/api?type=venom&color=0:43cea2,100:185a9d&height=140&section=header&text=Hi 👋, I am Krishna Jhanwar&desc=Driven by Curiosity 👀 and Innovation 🚀&descSize=15&descAlignY=75&fontSize=30&fontColor=ffffff&animation=fadeIn" alt="intro_gif" />
-    </a>
-</p> -->
-
 ![intro_gif](https://capsule-render.vercel.app/api?type=venom&color=0:43cea2,100:185a9d&height=140&section=header&text=Hi%20👋,%20I%20am%20Krishna%20Jhanwar&desc=Driven%20by%20Curiosity%20👀%20and%20Innovation%20🚀&descSize=15&descAlignY=75&fontSize=30&fontColor=ffffff&animation=fadeIn)
 
 <p align="center">
@@ -96,9 +90,7 @@
 
 <h2>📈 My GitHub Stats</h2>
 <p align="center">
-    <!-- <img src="https://github-readme-stats.vercel.app/api?username=krishnaj01&show_icons=true&theme=nord" alt="GitHub Stats" /> -->
     <img src="https://github-readme-stats.shion.dev/api?username=krishnaj01&show_icons=true&theme=nord" alt="GitHub Stats" />
-    <!-- <img src="https://github-readme-streak-stats-eight.vercel.app/?user=krishnaj01&theme=nord" alt="GitHub Streak" /> -->
     <img src="https://streak-stats.demolab.com/?user=krishnaj01&theme=nord" alt="GitHub Streak" />
 </p>
 
