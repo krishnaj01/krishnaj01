@@ -57,9 +57,9 @@
     <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="nextjs" />
     <img src="https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black" alt="ejs" />
     <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwind" />
+    <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" />
     <img src="https://img.shields.io/badge/Aceternity UI-000?style=for-the-badge&logo=&logoColor=white" alt="aceternity-ui" />
     <img src="https://img.shields.io/badge/Magic UI-D484D9?style=for-the-badge&logo=&logoColor=white" alt="magic-ui" />
-    <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" />
 </p>
 
 <h3>Databases</h3>
