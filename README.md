@@ -1,21 +1,9 @@
-<!-- <p align="center">
+<p align="center">
     <img width=70% src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="header_gif" />
 </p>
 
-![intro_gif](https://capsule-render.vercel.app/api?type=venom&color=0:43cea2,100:185a9d&height=140&section=header&text=Hi%20👋,%20I%20am%20Krishna%20Jhanwar&desc=Driven%20by%20Curiosity%20👀%20and%20Innovation%20🚀&descSize=15&descAlignY=75&fontSize=30&fontColor=ffffff&animation=fadeIn) -->
+![intro_gif](https://capsule-render.vercel.app/api?type=venom&color=0:43cea2,100:185a9d&height=140&section=header&text=Hi%20👋,%20I%20am%20Krishna%20Jhanwar&desc=Driven%20by%20Curiosity%20👀%20and%20Innovation%20🚀&descSize=15&descAlignY=75&fontSize=30&fontColor=ffffff&animation=fadeIn)
 
-<table>
-<tr>
-<td valign="top" width="65%">
-
-# Hello! I'm Krishna Jhanwar 👋
-<p>
-    <img src="https://komarev.com/ghpvc/?username=krishnaj01&color=blue&abbreviated=true" alt="profile_views"/>
-</p>
-
-- ⚡ **Fun Fact:** I keep admiring my work for days after it’s fully complete, because obviously it’s a masterpiece. 😂
-
-- 📫 **Reach me at:** krishnaj@iitbhilai.ac.in || krishna.jhanwar2005@gmail.com
 <p align="center">
     <a href="https://www.linkedin.com/in/krishna-jhanwar/" target="_blank">
         <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff" alt="linkedin" />
@@ -34,13 +22,13 @@
     </a>
 </p>
 
-</td>
-<td valign="top" align="right" width="40%">
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="header_gif"/>
-</td>
-</tr>
-</table>
+<p>
+    <img src="https://komarev.com/ghpvc/?username=krishnaj01&color=blue&abbreviated=true" alt="profile_views"/>
+</p>
 
+- ⚡ **Fun Fact:** I keep admiring my work for days after it’s fully complete, because obviously it’s a masterpiece. 😂
+
+- 📫 **Reach me at:** krishnaj@iitbhilai.ac.in || krishna.jhanwar2005@gmail.com
 
 
 <h2>🛠️ Skills</h2>
