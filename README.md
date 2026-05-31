@@ -32,21 +32,19 @@
 
 
 <h2>🛠️ Skills</h2>
-<h3>Languages</h3>
+<!-- <h3>Languages</h3> -->
 <p>
     <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="c" />
     <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="c++" />
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python" />
     <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="html" />
     <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="css" />
     <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="js" />
     <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="ts" />
+    <img src="https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&&logo=go&logoColor=white" alt="go" />
     <img src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white" alt="latex" />
     <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="shell script" />
     <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="php" />
-</p>
-
-<h3>Frameworks, Platforms & Libraries</h3>
-<p>
     <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs" />
     <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="express" />
     <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="reactjs" />
@@ -56,36 +54,44 @@
     <img src="https://img.shields.io/badge/Aceternity UI-000?style=for-the-badge&logo=&logoColor=white" alt="aceternity-ui" />
     <img src="https://img.shields.io/badge/Magic UI-D484D9?style=for-the-badge&logo=&logoColor=white" alt="magic-ui" />
     <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" />
-</p>
-
-<h3>Databases</h3>
-<p>
     <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" />
+    <img src="https://img.shields.io/badge/Postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgres">
     <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" />
     <img src="https://img.shields.io/badge/Sanity-f37368?style=for-the-badge&logo=sanity&logoColor=white" alt="sanity" />
-</p>
-
-
-<h3>Hosting</h3>
-<p>
+    <img src="https://img.shields.io/badge/Redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" alt="redis" />
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff" alt="docker" />
+    <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=fff" alt="kubernetes" />
     <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="vercel" />
     <img src="https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white" alt="render" />
     <img src="https://img.shields.io/badge/Koyeb-000?style=for-the-badge&logo=koyeb&logoColor=white" alt="koyeb" />
-</p>
-
-<h3>Version Control</h3>
-<p>
     <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="git" />
     <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="github" />
-</p>
-
-<h3>Design</h3>
-<p>
     <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="canva" />
     <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="figma" />
     <img src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white" alt="adobe_lightroom" />
     <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt="adobe_photoshop" />
 </p>
+
+<!-- <h3>Frameworks, Platforms & Libraries</h3> -->
+<!-- <p>
+</p> -->
+
+<!-- <h3>Databases</h3> -->
+<!-- <p>
+</p> -->
+
+
+<!-- <h3>Hosting</h3> -->
+<!-- <p>
+</p> -->
+
+<!-- <h3>Version Control</h3> -->
+<!-- <p>
+</p> -->
+
+<!-- <h3>Design</h3> -->
+<!-- <p>
+</p> -->
 
 
 <h2>📈 My GitHub Stats</h2>
@@ -96,7 +102,8 @@
 
 <h2>🏆 My GitHub Trophies</h2>
 <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=krishnaj01&theme=onedark" alt="GitHub Trophies" />
+    <!-- <img src="https://github-profile-trophy.vercel.app/?username=krishnaj01&theme=onedark" alt="GitHub Trophies" /> -->
+    <img src="https://trophy.benkou.dev/?username=krishnaj01&theme=onedark" alt="GitHub Trophies" />
 </p>
 
 <p align="center">
